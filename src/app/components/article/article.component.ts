@@ -52,7 +52,7 @@ export class ArticleComponent implements OnInit {
           text:'Cancelar',
           icon:'close-outline',
           role:'cancel',
-          // cssClass:'secondary' 
+          cssClass:'secondary' 
         }
       ]
     });
